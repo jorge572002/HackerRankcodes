@@ -1,5 +1,7 @@
 #!/bin/python3
 
+#Easy
+
 import math
 import os
 import random
