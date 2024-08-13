@@ -13,6 +13,8 @@ import sys
 # The function accepts STRING s as parameter.
 #
 
+#easy
+
 def timeConversion(s):
     horaCorta=s[:-2]
     num=horaCorta.split(":")
