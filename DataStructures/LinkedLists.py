@@ -37,6 +37,8 @@ class SinglyLinkedList:
 #     SinglyLinkedListNode next
 #
 #
+
+#easy
 class Node:
     def __init__(self, data):
         self.data = data
